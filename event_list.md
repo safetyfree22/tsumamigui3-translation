@@ -86,12 +86,12 @@
 |０２日目/夜２/実家|day_02/night_2/parents_home|Done
 |０２日目/入浴/実家|day_02/bath/parents_home|Done
 |０２日目/深夜/実家|day_02/late_night/parents_home|Done
-|０３日目/朝/実家|day_03/morning/parents_home|To do
-|０３日目/昼１|day_03/daytime_1|To do
-|０３日目/昼１/海水浴場|day_03/daytime_1/swimming_area|To do
-|０３日目/昼２/海水浴場|day_03/daytime_2/swimming_area|To do
-|０３日目/夜１/実家|day_03/night_1/parents_home|To do
-|０３日目/夜２/実家/０１|day_03/night_2/parents_home/01|To do
+|０３日目/朝/実家|day_03/morning/parents_home|Done
+|０３日目/昼１|day_03/daytime_1|Done
+|０３日目/昼１/海水浴場|day_03/daytime_1/swimming_area|Done
+|０３日目/昼２/海水浴場|day_03/daytime_2/swimming_area|Done
+|０３日目/夜１/実家|day_03/night_1/parents_home|Done
+|０３日目/夜２/実家/０１|day_03/night_2/parents_home/01|Done
 |０３日目/夜２/実家/０２−１/黙って見ている|day_03/night_2/parents_home/02_1/looking_silently|To do
 |０３日目/夜２/実家/０２−２/邪魔をする|day_03/night_2/parents_home/02_2/get_in_the_way|To do
 |０３日目/夜２/実家/０３|day_03/night_2/parents_home/03|To do
